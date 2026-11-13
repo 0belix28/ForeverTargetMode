@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: |cff33ccffForeverTargetMode|r
+## Notes: Affiche en combat si tu es en mono-cible (single target) ou en multi-cibles. /ftm
+## Notes-frFR: Affiche en combat si tu es en mono-cible (single target) ou en multi-cibles. /ftm
+## Version: 0.2.0
+## IconTexture: Interface\AddOns\ForeverTargetMode\Media\Logo
+## SavedVariables: ForeverTargetModeDB
+## AddonCompartmentFunc: ForeverTargetMode_OpenOptions
+
+Core.lua
+Options.lua
